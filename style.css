@@ -1,0 +1,61 @@
+body
+{
+    background-color: rgb(239, 238, 238);
+}
+nav
+{
+    position: sticky;
+    top:0;
+}
+.text-green
+{
+    color:rgb(25, 185, 25);
+
+}
+.text-orange
+{
+    color:orange;
+}
+.btn-green
+{
+    background-color:rgb(25, 185, 25);
+
+}
+.btn-outline-green
+{
+    border: 1px solid rgb(25, 185, 25);
+}
+.btn-outline-orange
+{
+    border:1px solid orange;
+}
+.btn-orange
+{
+    background-color:orange;
+}
+.bgimg
+{
+    position: absolute;
+}
+.slogan
+{
+    position: relative;
+    top: 200px;
+
+}
+.left
+{
+    float: left;
+}
+.second
+{
+    float: right;
+}
+.productImg
+{
+    box-shadow: 10px;
+}
+.productImg:hover
+{
+    transform: scale(1.1);
+}
